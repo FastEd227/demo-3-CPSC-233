@@ -1,0 +1,7 @@
+day,month,year,calories,protein,fat,carbs,exercise
+
+
+01,02,22,3000
+
+03,02,22,2000 
+
